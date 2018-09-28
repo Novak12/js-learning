@@ -1,6 +1,6 @@
 ## js-learning
 
-这里主要记录一些js学习过程中的知识点，加油，共勉！！
+一点点积累，不断总结，勤能补拙
 
 ## 目录
 * [1. 生成器函数Generator, 箭头函数](https://github.com/Novak12/js-learning/blob/master/doc/1.%20%E7%94%9F%E6%88%90%E5%99%A8%E5%87%BD%E6%95%B0Generator%2C%20%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0.md)
